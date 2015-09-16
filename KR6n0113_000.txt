@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 觀所緣論釋
+#+DATE: 2015-08-30 20:58:32.224820
+#+PROPERTY: JUAN 0

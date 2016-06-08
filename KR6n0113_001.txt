@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:32.030293
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:47
 #+TITLE: 觀所緣論釋
 #+PROPERTY: CBETA_ID T31n1625
 #+PROPERTY: ID KR6n0113
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1625
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0113_T_000-0889a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0113_T_001-0889a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1625[cf.No.1624]¶
-
- 觀所緣論釋¶
+No. 1625 [cf. No. 1624]¶
+觀所緣論釋¶
 ¶
 護法菩薩造¶
 大唐三藏法師義淨奉　制譯¶
@@ -23,9 +22,9 @@ No.1625[cf.No.1624]¶
 「　若言能令毒智人
 　為令其慧極明了¶
 　及為消除於罪惡
-　稽首敬已觀其義
+　稽首敬已觀其義」
 #+END_VERSE
-」¶
+¶
 
 論曰。諸許眼等識者。於所棄事。及所收事。或¶
 捨或取。是觀察果故。所捨事體。及顛倒因。是¶
